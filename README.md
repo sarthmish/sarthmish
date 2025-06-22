@@ -101,11 +101,8 @@
 
 <div align="center">
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthmish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthmish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthmish&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
@@ -134,14 +131,6 @@
 - ⚡ **Fun fact**: I love exploring the intersection of AI and real-world problem solving!
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthmish&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
 
 ---
 
